@@ -1,0 +1,33 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "DESSENDI.C": "cpp",
+        "DEVID.C": "cpp",
+        "AMSTRONG.C": "cpp",
+        "AARYRED.C": "cpp",
+        "AARYSE.C": "cpp",
+        "AR.C": "cpp",
+        "AARY_1.C": "cpp",
+        "123.C": "cpp",
+        "108.C": "cpp",
+        "SUMOFDIG.C": "cpp",
+        "ARRAY_2.C": "cpp",
+        "C.C": "cpp",
+        "CIRCLE.C": "cpp",
+        "FUN_FACT.C": "cpp",
+        "AOC_FUN.C": "cpp",
+        "FACT_FUN.C": "cpp",
+        "FUN_SI.C": "cpp",
+        "FUN_SPHE.C": "cpp",
+        "FUN_REV.C": "cpp",
+        "FUN_LINE.C": "cpp",
+        "FUN_2.C": "cpp",
+        "FUN_PRIM.C": "cpp",
+        "FUN_MAX.C": "cpp",
+        "RAINBOW.C": "cpp",
+        "REVSTR.C": "cpp",
+        "W_A_W_R.C": "cpp",
+        "PRIMELOG.C": "cpp",
+        "PRIMESER.C": "cpp"
+    }
+}
