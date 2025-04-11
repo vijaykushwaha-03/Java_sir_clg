@@ -1,0 +1,38 @@
+Married,BusinessTravel,Department,Gender,JobInvolvement,JobRole,Salary Hike
+Yes,Travel_Rarely,Sales,Female,High,Sales Executive,Yes
+No,Travel_Frequently,Research & Development,Male,Medium,Research Scientist,No
+Yes,Travel_Rarely,Research & Development,Male,Medium,Laboratory Technician,Yes
+No,Travel_Frequently,Research & Development,Female,High,Research Scientist,No
+No,Travel_Rarely,Research & Development,Male,High,Laboratory Technician,Yes
+No,Travel_Frequently,Research & Development,Male,High,Laboratory Technician,Yes
+No,Travel_Rarely,Research & Development,Female,Very High,Laboratory Technician,No
+No,Travel_Rarely,Research & Development,Male,High,Laboratory Technician,No
+No,Travel_Frequently,Research & Development,Male,Medium,Manufacturing Director,Yes
+No,Travel_Rarely,Research & Development,Male,High,Healthcare Representative,No
+No,Travel_Rarely,Research & Development,Male,Very High,Laboratory Technician,Yes
+No,Travel_Rarely,Research & Development,Female,Medium,Laboratory Technician,No
+No,Travel_Rarely,Research & Development,Male,High,Research Scientist,Yes
+No,Travel_Rarely,Research & Development,Male,High,Laboratory Technician,No
+Yes,Travel_Rarely,Research & Development,Male,Medium,Laboratory Technician,No
+No,Travel_Rarely,Research & Development,Female,Very High,Manufacturing Director,No
+No,Travel_Rarely,Research & Development,Male,Very High,Research Scientist,Yes
+No,Non-Travel,Research & Development,Male,Very High,Laboratory Technician,Yes
+No,Travel_Rarely,Sales,Female,Medium,Manager,Yes
+No,Travel_Rarely,Research & Development,Male,High,Research Scientist,No
+No,Non-Travel,Research & Development,Female,Very High,Manufacturing Director,No
+Yes,Travel_Rarely,Sales,Male,Medium,Sales Representative,Yes
+No,Travel_Rarely,Research & Development,Female,High,Research Director,No
+No,Travel_Rarely,Research & Development,Male,High,Research Scientist,Yes
+Yes,Travel_Rarely,Research & Development,Male,High,Research Scientist,No
+No,Travel_Rarely,Research & Development,Female,High,Manager,Yes
+Yes,Travel_Frequently,Research & Development,Female,Low,Research Scientist,No
+No,Travel_Rarely,Sales,Male,High,Sales Executive,Yes
+No,Travel_Rarely,Research & Development,Female,Medium,Healthcare Representative,No
+No,Travel_Rarely,Sales,Female,High,Manager,No
+No,Travel_Rarely,Research & Development,Male,High,Laboratory Technician,No
+No,Travel_Rarely,Research & Development,Male,High,Healthcare Representative,No
+No,Travel_Rarely,Research & Development,Male,Medium,Laboratory Technician,No
+Yes,Travel_Rarely,Sales,Male,High,Sales Representative,ny
+Yes,Travel_Rarely,Research & Development,Male,High,Research Scientist,Yes
+No,Travel_Rarely,Research & Development,Female,Very High,Research Scientist,Yes
+Yes,Travel_Rarely,Sales,Male,Medium,Sales Representative,Y

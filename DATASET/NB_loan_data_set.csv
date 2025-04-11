@@ -1,0 +1,283 @@
+Gender,Married,Dependents,Education,Self_Employed,Credit_History,Property_Area,Loan_Status
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,1,Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,Yes,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,2,Graduate,Yes,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,NotApproved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Male,Yes,2,Graduate,,1,Urban,Approved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,No,1,Not Graduate,No,,Urban,Approved
+Female,No,0,Graduate,No,0,Urban,NotApproved
+Male,Yes,0,Not Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,0,Urban,NotApproved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,0,Semiurban,NotApproved
+,Yes,2,Not Graduate,No,0,Rural,NotApproved
+Male,Yes,1,Graduate,,,Semiurban,NotApproved
+Male,Yes,0,Graduate,Yes,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Not Graduate,No,1,Urban,Approved
+Male,No,0,Not Graduate,No,1,Urban,NotApproved
+Female,No,2,Graduate,,1,Semiurban,Approved
+Male,Yes,1,Graduate,,,Urban,NotApproved
+Male,No,0,Graduate,No,1,Urban,NotApproved
+Male,No,1,Graduate,Yes,1,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,0,Urban,NotApproved
+Female,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,No,0,Not Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Urban,NotApproved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,,Urban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,Yes,1,Urban,Approved
+Female,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Female,Yes,0,Graduate,No,0,Urban,NotApproved
+Female,No,0,Graduate,No,1,Semiurban,Approved
+Female,Yes,0,Not Graduate,No,1,Semiurban,Approved
+Female,No,0,Graduate,No,1,Semiurban,Approved
+Female,No,0,Graduate,No,1,Semiurban,NotApproved
+Male,Yes,2,Graduate,No,1,Urban,NotApproved
+Female,Yes,1,Graduate,Yes,0,Urban,NotApproved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,Yes,2,Not Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Not Graduate,Yes,0,Rural,NotApproved
+Male,Yes,1,Graduate,No,0,Rural,NotApproved
+Female,No,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,NotApproved
+Male,No,0,Not Graduate,No,0,Urban,NotApproved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,Yes,0,Not Graduate,Yes,1,Urban,Approved
+Female,No,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,2,Not Graduate,Yes,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,No,0,Semiurban,NotApproved
+Male,Yes,0,Graduate,Yes,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Urban,NotApproved
+Male,No,0,Graduate,No,1,Urban,NotApproved
+Male,Yes,1,Graduate,Yes,1,Urban,NotApproved
+Male,Yes,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,0,Not Graduate,Yes,,Semiurban,Approved
+Female,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,1,Graduate,Yes,1,Semiurban,Approved
+Female,Yes,2,Graduate,No,1,Urban,NotApproved
+Male,Yes,0,Graduate,No,,Semiurban,NotApproved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Not Graduate,No,,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Not Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,No,0,Not Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,,,Urban,NotApproved
+Female,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Not Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,,,Graduate,No,1,Urban,Approved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Male,No,0,Not Graduate,,1,Rural,NotApproved
+Male,Yes,2,Graduate,No,0,Urban,NotApproved
+Male,Yes,0,Not Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Female,Yes,0,Graduate,,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,No,0,Rural,NotApproved
+Female,No,1,Graduate,Yes,1,Semiurban,Approved
+Male,No,0,Graduate,,1,Semiurban,Approved
+Male,Yes,1,Graduate,No,1,Rural,Approved
+Female,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,1,Graduate,No,,Urban,Approved
+Male,Yes,0,Graduate,No,1,Rural,NotApproved
+Female,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,,Graduate,No,1,Rural,Approved
+Female,No,0,Graduate,No,1,Semiurban,Approved
+Female,No,0,Graduate,No,0,Semiurban,Approved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,No,1,Rural,Approved
+Female,No,0,Graduate,No,,Rural,Approved
+,Yes,0,Graduate,No,1,Rural,Approved
+Male,No,0,Graduate,No,1,Rural,Approved
+Male,Yes,1,Graduate,Yes,0,Urban,NotApproved
+Male,Yes,0,Graduate,No,,Rural,NotApproved
+Male,No,0,Graduate,Yes,,Urban,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,Yes,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,NotApproved
+Female,Yes,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,2,Graduate,Yes,1,Urban,Approved
+Male,No,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,2,Not Graduate,No,1,Rural,NotApproved
+Male,Yes,2,Graduate,No,1,Rural,NotApproved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,Yes,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Female,Yes,0,Graduate,No,1,Semiurban,Approved
+Female,Yes,2,Graduate,No,1,Urban,Approved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Female,No,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,0,Rural,NotApproved
+Male,Yes,0,Graduate,Yes,1,Rural,Approved
+Male,No,0,Graduate,No,1,Urban,NotApproved
+Male,Yes,2,Not Graduate,No,1,Rural,NotApproved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,0,Semiurban,Approved
+Male,Yes,1,Graduate,No,,Rural,Approved
+Male,Yes,1,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,,1,Rural,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Urban,NotApproved
+Male,Yes,1,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,2,Graduate,No,1,Rural,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Rural,Approved
+Female,Yes,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Rural,Approved
+Male,No,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,,1,Rural,Approved
+,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Not Graduate,Yes,1,Semiurban,NotApproved
+Male,Yes,0,Graduate,No,1,Rural,Approved
+Male,Yes,2,Graduate,No,1,Rural,Approved
+Male,Yes,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,1,Graduate,No,1,Semiurban,Approved
+Male,No,0,Not Graduate,No,0,Urban,NotApproved
+Male,Yes,1,Graduate,No,0,Urban,NotApproved
+Male,No,0,Graduate,No,,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,NotApproved
+Female,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,Yes,1,Semiurban,Approved
+Male,Yes,1,Graduate,Yes,0,Rural,NotApproved
+Male,Yes,0,Graduate,No,,Rural,Approved
+,Yes,0,Graduate,Yes,1,Rural,Approved
+Male,Yes,0,Graduate,No,1,Rural,Approved
+Male,No,0,Not Graduate,No,1,Rural,Approved
+Male,No,0,Graduate,No,1,Semiurban,NotApproved
+Male,Yes,0,Not Graduate,No,1,Urban,NotApproved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Rural,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,NotApproved
+Male,No,0,Graduate,No,1,Rural,Approved
+Female,No,0,Not Graduate,No,1,Urban,Approved
+Female,Yes,0,Graduate,No,,Semiurban,Approved
+Male,No,0,Graduate,Yes,1,Urban,NotApproved
+Male,Yes,1,Not Graduate,No,1,Semiurban,Approved
+Male,No,2,Graduate,No,0,Semiurban,Approved
+Male,Yes,0,Not Graduate,No,1,Urban,NotApproved
+Male,Yes,1,Not Graduate,No,1,Urban,Approved
+Male,Yes,2,Not Graduate,No,1,Semiurban,Approved
+Female,No,0,Not Graduate,No,1,Semiurban,Approved
+Female,No,0,Graduate,No,1,Urban,Approved
+Male,No,0,Not Graduate,No,1,Rural,Approved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Semiurban,NotApproved
+Female,No,0,Graduate,No,1,Semiurban,NotApproved
+Male,Yes,0,Graduate,No,0,Semiurban,NotApproved
+Male,Yes,1,Graduate,Yes,1,Urban,Approved
+Male,Yes,0,Not Graduate,Yes,1,Rural,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Graduate,,0,Semiurban,NotApproved
+Female,Yes,2,Graduate,No,,Semiurban,Approved
+Male,Yes,0,Graduate,No,0,Urban,NotApproved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,,Not Graduate,Yes,1,Urban,NotApproved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,,,Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,Yes,1,Rural,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,,1,Rural,Approved
+Male,No,0,Not Graduate,No,1,Rural,Approved
+Female,No,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,Approved
+Male,Yes,1,Graduate,No,1,Rural,Approved
+Male,Yes,0,Graduate,,,Urban,NotApproved
+Female,No,0,Graduate,Yes,,Urban,Approved
+Female,No,1,Graduate,No,1,Rural,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Graduate,No,1,Rural,Approved
+Male,Yes,1,Not Graduate,No,1,Urban,NotApproved
+Male,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,2,Graduate,Yes,1,Rural,Approved
+Male,Yes,0,Not Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,Yes,1,Urban,NotApproved
+Male,Yes,2,Graduate,No,1,Urban,Approved
+Male,Yes,1,Not Graduate,No,1,Urban,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Not Graduate,No,0,Semiurban,NotApproved
+Female,No,2,Graduate,No,1,Urban,NotApproved
+Male,No,0,Not Graduate,Yes,1,Rural,Approved
+Male,Yes,1,Not Graduate,No,1,Semiurban,Approved
+Male,No,0,Graduate,Yes,0,Urban,NotApproved
+Female,No,0,Graduate,No,1,Rural,Approved
+Male,No,0,Not Graduate,No,0,Rural,NotApproved
+Male,Yes,0,Graduate,No,1,Urban,NotApproved
+Male,Yes,0,Graduate,No,1,Rural,NotApproved
+Male,Yes,0,Not Graduate,No,,Semiurban,NotApproved
+Male,Yes,1,Graduate,No,,Urban,Approved
+Male,No,0,Graduate,No,1,Semiurban,Approved
+Female,No,1,Graduate,No,1,Semiurban,NotApproved
+Female,No,0,Graduate,No,1,Rural,Approved
+Male,No,0,Graduate,Yes,1,Semiurban,Approved
+Male,No,0,Graduate,No,1,Rural,Approved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,0,Urban,Approved
+Female,No,0,Graduate,,1,Rural,NotApproved
+Female,No,1,Graduate,No,1,Urban,Approved
+Female,No,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,No,0,Graduate,No,1,Rural,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,2,Graduate,No,1,Semiurban,Approved
+Male,Yes,1,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Male,Yes,0,Graduate,No,1,Urban,Approved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
+Female,Yes,0,Not Graduate,No,,Rural,Approved
+Male,No,1,Not Graduate,Yes,0,Urban,NotApproved
+Male,Yes,0,Graduate,No,1,Semiurban,Approved
